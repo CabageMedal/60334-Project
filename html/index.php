@@ -95,7 +95,7 @@
 <div class="container mt-4 justify-content-center">
     <div class="row">
         <div class="col">
-            <h3 class="text-center">Recomended Searches</h3>
+            <h3 class="text-center">Recommended Searches</h3>
         </div>
     </div>
     <div class="row">
